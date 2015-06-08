@@ -1,0 +1,28 @@
+@charset "utf-8";
+@media(max-width:1024px){.banner{height:150px;margin-top:10%}
+.contenedor_sites{margin-left:0}
+.sites{width:32.5%}
+nav{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:16%;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+#logo{display:none}
+#menu-icon{display:block;visibility:visible;width:50px;height:50px;border-radius:5px;background:#000 url(imgs/menu-icon.png) center;background-repeat:no-repeat}
+#menu-icon:hover{background-color:#444}
+.submenu{display:none;position:absolute;padding:0;background:grey;z-index:99999999;margin-left:-10%;width:33%;margin-top:6.2%}
+.submenu a{color:#fff}
+nav li{background-image:url(imgs/menu.png);margin:2%;display:block;text-align:center}
+.acces{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;font-family:Arial,Helvetica,sans-serif;font-size:1.5em;color:#fff;line-height:50px;background-image:url(imgs/menu.png);border-left:solid}
+.acces div{-webkit-box-flex:50%;-webkit-flex:50%;-ms-flex:50%;flex:50%;text-align:center}
+.cont_perfil{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
+.titol{font-size:2em}
+video{display:none}}
+@media(max-width:500px){.banner img{height:100px}
+.titol{font-size:3em}
+.submenu{margin-left:0;width:50%}
+.contenedor{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
+.form_registre{width:75%;margin-bottom:20%}
+.form_registre input{width:100%;margin-bottom:5%}
+.registrarse input{width:auto;margin-top:0}
+.form_login input{width:auto}
+.contenedor_footer{height:146px}
+.marcas img{width:74%;height:51px}
+.menu_footer a{-webkit-box-flex:20%;-webkit-flex:20%;-ms-flex:20%;flex:20%;height:100px;color:#fff;text-align:center;font-size:1.5em;font-family:Sportsites}
+.copyright{font-size:1.5em}}

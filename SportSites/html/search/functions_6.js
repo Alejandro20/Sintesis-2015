@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['get',['get',['../class_session.html#acf4e501ef0dfb6e98762fbecc9d75b9a',1,'Session']]],
+  ['getalphanum',['getAlphaNum',['../class_controller.html#ad172de485816300938f1f2185f92a67d',1,'Controller']]],
+  ['getargs',['getArgs',['../class_request.html#a19dde99d8deb1c2e72d40e191fee96b0',1,'Request']]],
+  ['getcategoria',['getCategoria',['../classesports_model.html#a0508470fbde65a743da5fa1c91d3d340',1,'esportsModel\getCategoria()'],['../classsites_model.html#adb8e9f482b330fd4cdbe13e1bb6f6c6b',1,'sitesModel\getCategoria()']]],
+  ['getcategoriainsert',['getCategoriaInsert',['../classesports_model.html#a09c6a525fe1358d3739bff55d6b2664d',1,'esportsModel']]],
+  ['getcategories',['getCategories',['../classadministrador_model.html#a8729ba486702e7e12a3fff08965e1e7f',1,'administradorModel\getCategories()'],['../classesports_model.html#a8729ba486702e7e12a3fff08965e1e7f',1,'esportsModel\getCategories()'],['../classsites_model.html#a8729ba486702e7e12a3fff08965e1e7f',1,'sitesModel\getCategories()']]],
+  ['getcomentaris',['getComentaris',['../classsites_model.html#ae750a6bacf0149e902862e16addc8f6d',1,'sitesModel']]],
+  ['getcontrolador',['getControlador',['../class_request.html#a6c83a958be0066f4ae0ae20ce3bb91ef',1,'Request']]],
+  ['getfavorits',['getFavorits',['../classsites_model.html#a26e87e12de82b921fc99022d92256369',1,'sitesModel']]],
+  ['getimgsite',['getImgSite',['../classsites_model.html#a5bb4eefd57223702d13525978302a198',1,'sitesModel']]],
+  ['getint',['getInt',['../class_controller.html#af89086338f2bb4a0d17b9e7510c5e9da',1,'Controller']]],
+  ['getmetode',['getMetode',['../class_request.html#aad5eec62afec15d672f5bb81a1574bc3',1,'Request']]],
+  ['getpostparam',['getPostParam',['../class_controller.html#a1bf57feb63c56e0a5f5a9ada9a1ca715',1,'Controller']]],
+  ['getsite',['getSite',['../classsites_model.html#a095a92d58ce230e6c035c70f31c1c316',1,'sitesModel']]],
+  ['getsites',['getSites',['../classadministrador_model.html#ab6f9b5403cf9de7de7b5916494516628',1,'administradorModel\getSites()'],['../classsites_model.html#ab6f9b5403cf9de7de7b5916494516628',1,'sitesModel\getSites()']]],
+  ['getsitespropis',['getSitesPropis',['../classsites_model.html#a242f198759893dd32f42f298119f7464',1,'sitesModel']]],
+  ['getsql',['getSql',['../class_controller.html#a97f9474da3d513fd4be3a27d6d1cba87',1,'Controller']]],
+  ['getsubscripcio',['getSubscripcio',['../classlogin_model.html#a81459b2bd5a5711018092ae00fdc6e15',1,'loginModel']]],
+  ['getsubscriptor',['getSubscriptor',['../classperfil_model.html#a13c3e86b8ae38e323dd73fd9dd1ca4d8',1,'perfilModel']]],
+  ['gettexto',['getTexto',['../class_controller.html#a7fb19957866301c2c1e94caa713f00c0',1,'Controller']]],
+  ['getusuari',['getUsuari',['../classperfil_model.html#ac9149067cf9637bfa353a5da3d053126',1,'perfilModel\getUsuari()'],['../classregistre_model.html#ac9149067cf9637bfa353a5da3d053126',1,'registreModel\getUsuari()']]],
+  ['getusuario',['getUsuario',['../classlogin_model.html#a02829b1d3c54336167159abb5370363e',1,'loginModel']]],
+  ['getusuaris',['getUsuaris',['../classadministrador_model.html#ae6ed92945c76a21439c8f46873bead13',1,'administradorModel']]]
+];
